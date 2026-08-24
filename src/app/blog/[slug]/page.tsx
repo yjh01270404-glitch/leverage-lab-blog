@@ -82,7 +82,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <div className="space-y-2 text-gray-400">
           <p>📲 <a href="https://t.me/NasdaqLabAlimBot" target="_blank" className="text-emerald-400 underline">실시간 텔레그램</a> — 무료 시황 & VIP 시그널 채널</p>
           <p>📚 <a href={`https://link.coupang.com/re/AFFSRP?lptag=AF2398041&pageKey=0&q=%EB%AF%B8%EA%B5%AD%EC%A3%BC%EC%8B%9D+%ED%88%AC%EC%9E%90`} target="_blank" className="text-emerald-400 underline">추천 도서</a> — 3배 레버리지 완전정복</p>
-          <p>⚡ <a href="https://kmong.com/gig/756291" target="_blank" className="text-emerald-400 underline">크몽 서비스</a> — 네이버 카페 AI 자동화 & 퀀트 분석기 맞춤 제작</p>
+          <p>⚡ <a href="https://kmong.com/gig/806828" target="_blank" className="text-emerald-400 underline">크몽 서비스</a> — 네이버 카페 AI 자동화 & 퀀트 분석기 맞춤 제작</p>
         </div>
       </div>
 
